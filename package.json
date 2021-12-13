@@ -1,7 +1,7 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
-    "version": "6.0.5",
+    "title": "City Helper",
+    "name": "city-helper-frontend",
+    "version": "1.0.0",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
         "build:assets": "node scripts/build-assets.js",
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": "Landing Page for https://cityhelper.app",
     "keywords": [
         "css",
         "sass",
@@ -21,19 +21,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/new-age",
+    "homepage": "https://cityhelper.app/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-new-age/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/c0c4i/city-helper-frontend/issues",
+        "email": "samuele.besoli.sb@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Samuele Besoli",
     "contributors": [
         "David Miller (https://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-new-age.git"
+        "url": "https://github.com/c0c4i/city-helper-frontend.git"
     },
     "dependencies": {
         "bootstrap": "5.1.3"

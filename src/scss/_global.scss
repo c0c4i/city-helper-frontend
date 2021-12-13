@@ -17,7 +17,7 @@ html {
     background-color: $black !important;
 }
 
-.bg-gradient-primary-to-secondary {
+.bg-color {
     background: linear-gradient(45deg, #{$primary}, #{$secondary}) !important;
 }
 
@@ -25,7 +25,7 @@ html {
     font-family: $alt-font-family !important;
 }
 
-.text-gradient {
+.icon-color {
     background: -webkit-linear-gradient(#{$primary}, #{$secondary});
     background-clip: text;
     -webkit-background-clip: text;
