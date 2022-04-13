@@ -1,6 +1,6 @@
 /*!
 * Start Bootstrap - City Helper v1.0.0 (https://cityhelper.app/)
-* Copyright 2013-2021 Samuele Besoli
+* Copyright 2013-2022 Samuele Besoli
 * Licensed under MIT (https://github.com/StartBootstrap/city-helper-frontend/blob/master/LICENSE)
 */
 //
